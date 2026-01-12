@@ -185,19 +185,6 @@ php artisan module:disable ModuleName
 
 ### أوامر الاختبار
 
-```bash
-# تشغيل جميع الاختبارات
-php artisan test
-
-# تشغيل اختبارات وحدة معينة
-php artisan test --testsuite=Module
-
-# إنشاء اختبار جديد
-php artisan make:test FeatureTest
-```
-
-## 🎨 واجهة المستخدم والمكونات
-
 ### المكونات المستخدمة
 
 - **جداول البيانات (Datatables)** - للعرض والتصفية
@@ -339,5 +326,6 @@ php artisan test --filter BookingTest
 
 # تغطية الكود
 php artisan test --coverage
-#   S a l o n M a n a g e m e n t S y s t e m  
+#   S a l o n M a n a g e m e n t S y s t e m 
+ 
  
