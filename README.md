@@ -339,3 +339,5 @@ php artisan test --filter BookingTest
 
 # تغطية الكود
 php artisan test --coverage
+#   S a l o n M a n a g e m e n t S y s t e m  
+ 
